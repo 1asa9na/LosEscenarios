@@ -1,0 +1,1 @@
+dotnet run Mash.gif 5 2

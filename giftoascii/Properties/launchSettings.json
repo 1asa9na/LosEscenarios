@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "giftoascii": {
+      "commandName": "Project",
+      "commandLineArgs": "image.gif 7 4"
+    }
+  }
+}
